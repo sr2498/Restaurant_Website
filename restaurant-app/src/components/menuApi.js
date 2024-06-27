@@ -82,11 +82,41 @@ const Menu = [
   {
     id: 9,
     image: "./images/Maggie.png",
-    name: "Maggie",
+    name: "Maggi",
     category: "Evening",
     price: 50,
     description:
       "Maggie is a popular instant noodle dish, cooked with a special spice mix, loved by people of all ages.",
+  },
+
+  {
+    id: 10,
+    image: "./images/Ras-Malai.jpg",
+    name: "Ras-Malai",
+    category: "Dessert",
+    price: 50,
+    description:
+      "A rich Indian dessert featuring soft, spongy cheese balls soaked in sweet, creamy milk flavored with cardamom, saffron, and garnished with nuts.",
+  },
+
+  {
+    id: 11,
+    image: "./images/Gulab-Jamun.jpg",
+    name: "Gulab-Jamun",
+    category: "Dessert",
+    price: 50,
+    description:
+      "A popular Indian dessert made from deep-fried dough balls soaked in a sweet, fragrant syrup flavored with cardamom, rose water, or saffron.",
+  },
+
+  {
+    id: 12,
+    image: "./images/Jalebi.jpg",
+    name: "jalebi",
+    category: "Dessert",
+    price: 50,
+    description:
+      "A crispy, spiral-shaped Indian sweet made from deep-fried fermented batter, soaked in sugar syrup flavored with saffron or rose water.",
   },
 ];
 
