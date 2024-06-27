@@ -8,7 +8,7 @@
 - Screenshot
 
 **Introduction**
-This project is a restaurant website built with React. The website allows users to view the restaurant's menu, filter items by category, and see descriptions and images of the dishes. It's designed to provide a seamless and engaging experience for customers looking to explore the restaurant's offerings.
+This restaurant website is built with React. The website allows users to view the restaurant's menu, filter items by category, and see descriptions and images of the dishes. It's designed to provide a seamless and engaging experience for customers looking to explore the restaurant's offerings.
 
 **Features**
 - View restaurant menu with images and descriptions
