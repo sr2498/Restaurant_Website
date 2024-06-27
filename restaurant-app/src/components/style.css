@@ -57,26 +57,26 @@
 }
 
 .card-read {
-    cursor:pointer;
+    cursor: pointer;
     font-size: 14px;
     font-weight: 700;
     letter-spacing: 0.1em;
-    margin: 5px 0 20px;
+    margin: 6px 0 20px;
     position: relative;
     text-align: right;
     text-transform: uppercase;
-    color: #007BFF;
+    color: #2a2c2c;
 }
 
 .card-read:after {
-    background-color: #007BFF;
+    background-color: #121315;
     content: "";
     display: block;
     height: 1px;
     position: absolute;
     top: 9px;
-    right: 0;
-    width: 75%;
+    left: 0;
+    width: 80%;
 }
 
 .card-tag {
@@ -94,7 +94,7 @@
 }
 
 .card-media {
-    max-width: 100%;
+    max-width: 200px;
     height: 200px;
     object-fit: cover;
 }

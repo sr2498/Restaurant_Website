@@ -5,7 +5,8 @@ const Menu = [
     name: "Poha",
     category: "Breakfast",
     price: 50,
-    description: "leromkjflsdjlsajdfljsf",
+    description:
+      "Poha is a light and nutritious breakfast dish made from flattened rice, onions, and spices.",
   },
 
   {
@@ -14,7 +15,8 @@ const Menu = [
     name: "Samosa",
     category: "Breakfast",
     price: 50,
-    description: "leromkjflsdjlsajdfljsf",
+    description:
+      "Samosa is a popular Indian snack consisting of a crispy pastry filled with spiced potatoes and peas.",
   },
 
   {
@@ -23,7 +25,8 @@ const Menu = [
     name: "Rice-Dal",
     category: "Dinner",
     price: 50,
-    description: "leromkjflsdjlsajdfljsf",
+    description:
+      "Rice-Dal is a comforting meal made of steamed rice and lentil curry, a staple in Indian cuisine.",
   },
 
   {
@@ -32,7 +35,8 @@ const Menu = [
     name: "Puri-chole",
     category: "Dinner",
     price: 50,
-    description: "leromkjflsdjlsajdfljsf",
+    description:
+      "Puri-Chole is a popular indian dish featuring deep-fried bread served with spicy chickpea curry.",
   },
 
   {
@@ -41,7 +45,8 @@ const Menu = [
     name: "Aloo-Paratha",
     category: "Lunch",
     price: 50,
-    description: "leromkjflsdjlsajdfljsf",
+    description:
+      "Aloo-Paratha is a popular Indian flatbread stuffed with a savory potato filling, perfect for lunch.",
   },
 
   {
@@ -50,7 +55,8 @@ const Menu = [
     name: "Samber-idli",
     category: "Lunch",
     price: 50,
-    description: "leromkjflsdjlsajdfljsf",
+    description:
+      "Sambar-Idli is a classic South Indian dish featuring steamed rice cakes served with lentil soup.",
   },
 
   {
@@ -59,7 +65,8 @@ const Menu = [
     name: "Noodles",
     category: "Evening",
     price: 50,
-    description: "leromkjflsdjlsajdfljsf",
+    description:
+      "Noodles are a quick and tasty snack, stir-fried with vegetables and a blend of Asian sauces.",
   },
 
   {
@@ -68,7 +75,8 @@ const Menu = [
     name: "Egg-Roll",
     category: "Evening",
     price: 50,
-    description: "leromkjflsdjlsajdfljsf",
+    description:
+      "Egg-Roll is a delicious street food consisting of a thin, crispy wrapper filled with egg and vegetables.",
   },
 
   {
@@ -77,7 +85,8 @@ const Menu = [
     name: "Maggie",
     category: "Evening",
     price: 50,
-    description: "leromkjflsdjlsajdfljsf",
+    description:
+      "Maggie is a popular instant noodle dish, cooked with a special spice mix, loved by people of all ages.",
   },
 ];
 
