@@ -82,11 +82,11 @@ const Menu = [
   {
     id: 9,
     image: "./images/Maggie.png",
-    name: "Maggie",
+    name: "Maggi",
     category: "Evening",
     price: 50,
     description:
-      "Maggie is a popular instant noodle dish, cooked with a special spice mix, loved by people of all ages.",
+      "Maggi is a popular instant noodle dish, cooked with a special spice mix, loved by people of all ages.",
   },
 ];
 
