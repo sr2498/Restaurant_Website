@@ -124,3 +124,61 @@
         grid-gap: 30px;
     }
 }
+
+/* Navbar style */
+.navbar {
+    background-color: #545252;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Styling the button group */
+  .btn-group {
+    display: flex;
+    gap: 10px;
+  }
+  
+  /* Styling individual buttons */
+  .btn-group__item {
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  
+  /* Hover effect for buttons */
+  .btn-group__item:hover {
+    background-color: #333;
+    color: #f0f0f0;
+  }
+  
+  /* Active button state */
+  .btn-group__item:active {
+    background-color: #555;
+    color: #f0f0f0;
+  }
+  
+  /* Responsive design for smaller screens */
+  @media (max-width: 768px) {
+    .navbar {
+      flex-direction: column;
+    }
+  
+    .btn-group {
+      flex-direction: column;
+    }
+  
+    .btn-group__item {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  }
+  
+
