@@ -17,10 +17,10 @@ This restaurant website is built with React. The website allows users to view th
 - Easy-to-navigate interface
 
 ## Technologies Used
-- React: JavaScript library for building user interfaces
-- CSS: Styling the application
-- JavaScript: Programming language for adding interactivity
-- HTML: Markup language for structuring the web pages
+- React: JavaScript library for building user interfaces.
+- CSS: Styling the application.
+- JavaScript: Programming language for adding interactivity.
+- HTML: Markup language for structuring the web pages.
 
 ## Pre-requisites
 Ensure you have the following installed on your local machine:
