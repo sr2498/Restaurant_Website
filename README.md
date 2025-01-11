@@ -1,4 +1,4 @@
-# Restaurant_Website
+# Restaurant Website
 ## Table of Contents
 - Introduction
 - Features
