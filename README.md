@@ -33,5 +33,6 @@ Ensure you have the following installed on your local machine:
 
 ## Screenshot
 
+
 ![Screen Shot 2024-06-27 at 2 39 04 AM](https://github.com/sr2498/Restaurant_Website/assets/134464080/8ea3ba32-903b-46e5-83b2-c7278061de5d)
 
