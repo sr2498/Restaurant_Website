@@ -1,6 +1,7 @@
 import React from "react";
 import Restaurant from "./components/Restaurant";
 
+
 const App = () => {
   return (
     <>
@@ -10,6 +11,3 @@ const App = () => {
 };
 
 export default App;
-
-
-
