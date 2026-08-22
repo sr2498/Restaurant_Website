@@ -1,4 +1,5 @@
 # Restaurant Website
+A responsive React-based restaurant website that allows users to explore menu items, view dish details, and filter food by different categories. The application provides a simple, clean, and user-friendly browsing experience across desktop and mobile devices.
 
 ## Table of Contents
 - Introduction
