@@ -1,5 +1,6 @@
 # Restaurant Website
-A responsive React-based restaurant website that allows users to explore menu items, view dish details, and filter food by different categories. The application provides a simple, clean, and user-friendly browsing experience across desktop and mobile devices.
+The Restaurant Website is a responsive React-based web application that allows users to explore restaurant menu items, view dish images and descriptions, and filter food by different categories.
+The application is designed to provide a clean, simple, and user-friendly browsing experience across desktop, tablet, and mobile devices.
 
 ## Table of Contents
 - Introduction
@@ -10,7 +11,10 @@ A responsive React-based restaurant website that allows users to explore menu it
 - Screenshot
 
 ## Introduction
-This restaurant website is built with React. The website allows users to view the restaurant's menu, filter items by category, and see descriptions and images of the dishes. It's designed to provide a seamless and engaging experience for customers looking to explore the restaurant's offerings.
+This restaurant website is built using React.js and demonstrates component-based frontend development.
+Users can browse different food items, view their images and descriptions, and filter the menu based on categories such as Breakfast, Lunch, Evening, and Dinner.
+
+The goal of this project is to create an engaging and easy-to-navigate interface that helps customers quickly explore the restaurant's available dishes.
 
 ## Features
 - View restaurant menu with images and descriptions
@@ -23,6 +27,8 @@ This restaurant website is built with React. The website allows users to view th
 - **CSS:** Styling the application.
 - **JavaScript:** Programming language for adding interactivity.
 - **HTML:** Markup language for structuring the web pages.
+- **Node.js:** Provides the development environment
+- **npm:** Used for package and dependency management
 
 ## Pre-requisites
 Ensure you have the following installed on your local machine:
