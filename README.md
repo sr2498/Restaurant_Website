@@ -1,5 +1,5 @@
 # Restaurant Website
-The Restaurant Website is a responsive React-based web application that allows users to explore restaurant menu items, view dish images and descriptions, and filter food by different categories.
+The Restaurant Website is a **responsive React-based web application** that allows users to explore restaurant menu items, view dish images and descriptions, and filter food by different categories.
 The application is designed to provide a clean, simple, and user-friendly browsing experience across desktop, tablet, and mobile devices.
 
 ## Table of Contents
@@ -14,7 +14,7 @@ The application is designed to provide a clean, simple, and user-friendly browsi
 This restaurant website is built using React.js and demonstrates component-based frontend development.
 Users can browse different food items, view their images and descriptions, and filter the menu based on categories such as Breakfast, Lunch, Evening, and Dinner.
 
-The goal of this project is to create an engaging and easy-to-navigate interface that helps customers quickly explore the restaurant's available dishes.
+The goal of this project is to create **an engaging and easy-to-navigate interface** that helps customers quickly explore the restaurant's available dishes.
 
 ## Features
 - View restaurant menu with images and descriptions
